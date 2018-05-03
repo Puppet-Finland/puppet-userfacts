@@ -1,6 +1,6 @@
 {
   "name": "puppetfinland-userfacts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Puppet-Finland team",
   "summary": "Facts related to *nix system users",
   "license": "BSD-2-Clause",
